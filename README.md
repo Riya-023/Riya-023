@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya</h1>
-<h3 align="center">A passionate Full Stack Developer | Final Year B.Tech CSE Student | MERN Stack | Open to Opportunities</h3>
+<h3 align="center">A passionate Full Stack Developer | B.Tech CSE Student | MERN Stack Developer | Open to Opportunities</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Girl Coding" width="400"/>
